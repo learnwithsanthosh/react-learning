@@ -40,3 +40,45 @@
 ### 🔍 Key Learning
 
 > React becomes powerful when you combine state and events to build interactive UI.
+
+## 📅 Day 5 – React: Props & Reusable Components
+
+### ✅ What I Did
+
+- Learned how to use `props` to pass data into components
+- Built a reusable `MessageBox` component that:
+  - Accepts `title`, `message`, `onClose` props
+  - Can be shown/hidden using state
+- Practiced dynamic rendering and JSX conditionals
+
+---
+
+### 🔧 Tech Stack
+
+- React 18
+- JSX
+- useState
+- Props
+- Vite / CRA
+
+---
+
+### 📸 Features
+
+- Clean reusable design
+- Separation of logic (controlled from parent)
+- Event-driven close behavior
+
+---
+
+### 🔍 Key Learning
+
+> React’s true power is in **building small, composable components** that can talk to each other via props.
+
+---
+
+### 🚀 Next Steps
+
+- Lift state up between components
+- Build list rendering using `.map()`
+- Start integrating backend data
